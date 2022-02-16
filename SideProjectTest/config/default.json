@@ -1,0 +1,4 @@
+{ 
+    "mongoURI": "mongodb+srv://tyler:1234@cluster0.t2bvb.mongodb.net/ccti_db?retryWrites=true&w=majority",
+    "jwtSecret": "myJwtSecret"
+}
